@@ -1,0 +1,10 @@
+# Local database files
+*.db
+*.db-*
+
+# Secrets
+.env
+
+# Build output
+*.exe
+/bin/
